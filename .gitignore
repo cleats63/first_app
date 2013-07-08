@@ -21,3 +21,5 @@ doc/
 .project
 .DS_Store
 .idea
+
+#[remote "origin"] url = https://github.com/cleats63/first_app.git fetch = +refs/heads/*:refs/remotes/origin/*
